@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Cláudio Menezes Santos — Tecnologia, Nuvem & Inteligência Artificial
 
 Profissional com 10 anos de experiência em Tecnologia da Informação, atuando com foco em Suporte Técnico, Monitoramento de Infraestrutura e soluções Microsoft. Possuo sólida vivência em ambientes de Data Center e NOC, com domínio em ferramentas como Zabbix e OpMon para análise proativa de operações e prevenção de incidentes.
