@@ -2,26 +2,26 @@
 <p align="center"><b>IT Support & NOC</b> • Cloud & AI • Belo Horizonte, Brazil</p>
 
 <p align="center">
-  <a href="https://learn.microsoft.com/pt-br/users/cludiosantos-5303/credentials/certification/azure-ai-fundamentals?tab=credentials-tab" target="_blank">
+  <a href="https://learn.microsoft.com/pt-br/users/cludiosantos-5303/credentials/certification/azure-ai-fundamentals?tab=credentials-tab" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft AI-900">
   </a>
-  <a href="https://learn.microsoft.com/pt-br/users/cludiosantos-5303/credentials/certification/azure-fundamentals?tab=credentials-tab" target="_blank">
+  <a href="https://learn.microsoft.com/pt-br/users/cludiosantos-5303/credentials/certification/azure-fundamentals?tab=credentials-tab" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-900">
   </a>
-  <a href="https://montreal.com.br/certificacoes-e-parcerias/" target="_blank">
-    <img src="https://img.shields.io/badge/Montreal%20Inform%C3%A1tica-Professional-111111?style=for-the-badge" alt="Montreal Informática">
+  <a href="https://montreal.com.br/certificacoes-e-parcerias/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Montreal-Informatica-111111?style=for-the-badge" alt="Montreal Informatica">
   </a>
-  <a href="https://claudiosantos.hashnode.dev" target="_blank">
+  <a href="https://claudiosantos.hashnode.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/claudio--santos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/claudio--santos/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:claudio.oliveira@montreal.com.br">
-    <img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-claudio.oliveira%40montreal.com.br-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
