@@ -2,10 +2,10 @@
 <p align="center"><b>IT Support & NOC</b> • Cloud & AI • Belo Horizonte, Brazil</p>
 
 <p align="center">
-  <a href="https://learn.microsoft.com/credentials/certifications/azure-ai-fundamentals/" target="_blank">
+  <a href="https://learn.microsoft.com/pt-br/users/cludiosantos-5303/credentials/certification/azure-ai-fundamentals?tab=credentials-tab" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft AI-900">
   </a>
-  <a href="https://learn.microsoft.com/credentials/certifications/azure-fundamentals/" target="_blank">
+  <a href="https://learn.microsoft.com/pt-br/users/cludiosantos-5303/credentials/certification/azure-fundamentals?tab=credentials-tab" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-900">
   </a>
   <a href="https://claudiosantos.hashnode.dev" target="_blank">
@@ -42,11 +42,11 @@ No momento, estou evoluindo para Cloud e IA com abordagem prática. Estou me pre
 
 ## Certifications
 
-- Microsoft Certified: Azure AI Fundamentals (AI-900)
-- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure AI Fundamentals (AI-900)  
+  https://learn.microsoft.com/pt-br/users/cludiosantos-5303/credentials/certification/azure-ai-fundamentals?tab=credentials-tab
+- Microsoft Certified: Azure Fundamentals (AZ-900)  
+  https://learn.microsoft.com/pt-br/users/cludiosantos-5303/credentials/certification/azure-fundamentals?tab=credentials-tab
 - In progress: AWS Certified Cloud Practitioner (CLF), AI-102
-
-> If you have your personal credential verification link (Microsoft Learn/Credly), send it to me and I’ll update the badges to point to your verified profile instead of the public certification pages.
 
 ---
 
@@ -81,5 +81,5 @@ This section will grow with my hands-on labs and cloud projects.
 
 - Blog: https://claudiosantos.hashnode.dev
 - GitHub: https://github.com/cmosantos
-- LinkedIn: https://www.linkedin.com/in/SEU-LINKEDIN/
-- Email: SEUEMAIL@DOMINIO.COM
+- LinkedIn: https://www.linkedin.com/in/claudio--santos/
+- Email: claudio.oliveira@montreal.com
