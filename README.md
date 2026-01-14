@@ -1,61 +1,85 @@
-# Cláudio Menezes Santos — Tecnologia, Nuvem & Inteligência Artificial
+<h1 align="center">Claudio Santos</h1>
+<p align="center"><b>IT Support & NOC</b> • Cloud & AI • Belo Horizonte, Brazil</p>
 
-Profissional com 10 anos de experiência em Tecnologia da Informação, atuando com foco em Suporte Técnico, Monitoramento de Infraestrutura e soluções Microsoft. Possuo sólida vivência em ambientes de Data Center e NOC, com domínio em ferramentas como Zabbix e OpMon para análise proativa de operações e prevenção de incidentes.
+<p align="center">
+  <a href="https://learn.microsoft.com/credentials/certifications/azure-ai-fundamentals/" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft AI-900">
+  </a>
+  <a href="https://learn.microsoft.com/credentials/certifications/azure-fundamentals/" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-900">
+  </a>
+  <a href="https://claudiosantos.hashnode.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog">
+  </a>
+</p>
 
-Atualmente, concentro minha atuação em suporte especializado a ambientes Microsoft 365, Exchange Online, Microsoft Defender, Microsoft Entra ID e Active Directory, garantindo disponibilidade, segurança e eficiência no ecossistema corporativo.
-
-Sou certificado em **Microsoft AZ-900**, avançando nos estudos das certificações **AI-900**, **AI-102** e **AWS Cloud Practitioner**, consolidando minha transição profissional para as áreas de Inteligência Artificial e Computação em Nuvem.
-
-Atualmente curso **Inteligência Artificial e Machine Learning**, com foco em algoritmos, Python, pensamento computacional e automações. Sou ativo em bootcamps de Cloud e IA (DIO, AWS, Microsoft), onde desenvolvo projetos práticos e soluções modernas.
-
-Meu objetivo é conectar minha experiência prática em suporte com a visão estratégica da nuvem e da IA, contribuindo para projetos inteligentes, escaláveis e de impacto real.
-
----
-
-## 🔗 Conecte-se Comigo
-
-| Plataforma | Card |
-|-----------|------|
-| 💼 LinkedIn | [<img src="https://img.shields.io/badge/LinkedIn-Cláudio%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/claudio--santos/) |
-| 📚 DIO | [<img src="https://img.shields.io/badge/DIO-Perfil%20de%20Estudos-000000?style=for-the-badge&logo=dio&logoColor=white" />](https://web.dio.me/home) |
-| 🏢 Montreal | [<img src="https://img.shields.io/badge/Montreal%20Informática-Soluções%20em%20TI-004AAD?style=for-the-badge&logo=microsoft&logoColor=white" />](https://montreal.com.br/solucoes/?utm_source=google+ads&utm_medium=cpc&utm_campaign=montreal_marca&utm_term=montrealinformatica&utm_content=pesquisa&gad_source=1&gad_campaignid=21404001346&gbraid=0AAAAAqLG1hacNo4qoAjYUUTpSjyarq-m-&gclid=Cj0KCQiAi9rJBhCYARIsALyPDts8Yn4YmDiOlPmussrgI38GQsDTrMA1bmochGapyTY1KSzg4eMXlksaAjXAEALw_wcB) |
-| 🧾 Certificação AZ-900 | [<img src="https://img.shields.io/badge/Microsoft%20Azure-AZ--900%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />](https://learn.microsoft.com/pt-br/users/cludiosantos-5303/credentials/certification/azure-fundamentals?tab=credentials-tab) |
-| 🐙 GitHub | [<img src="https://img.shields.io/badge/GitHub-cmosantos-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/cmosantos) |
-
----
-
-## 🎓 Certificações
-
-- 🎖️ **Microsoft AZ-900 — Azure Fundamentals**  
-- 📘 Em estudo: **AI-900**, **AI-102**, **AWS Cloud Practitioner Essentials**  
-- 🎓 Graduação em andamento: **Inteligência Artificial & Machine Learning**
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:SEUEMAIL@DOMINIO.COM">
+    <img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## About
 
-**Microsoft & Cloud:**  
-`Microsoft 365` • `Exchange Online` • `Azure` • `Entra ID` • `Active Directory` • `Defender`  
+I’m an IT Support and NOC professional focused on infrastructure monitoring, incident response, and Microsoft cloud environments. I work with enterprise operations where availability and security are non-negotiable, supporting users and services across Microsoft 365 and hybrid scenarios.
 
-**Monitoramento:**  
-`Zabbix` • `OpMon`  
+Right now, I’m expanding into Cloud and AI with a strong hands-on approach. I’m studying for AWS Cloud Practitioner, progressing through AWS Skill Builder training, and building practical labs in AWS and Azure. I also write about Cloud Intelligence, automation, and modern infrastructure on Hashnode.
 
-**Linguagens & IA:**  
-`Python` • `Machine Learning` • `IA Generativa`  
+<details>
+  <summary><b>Versão em Português</b></summary>
 
-**DevOps & Modern Stack:**  
-`Git` • `GitHub` • `Docker` • `CI/CD`  
+Profissional de Suporte e NOC com foco em monitoramento de infraestrutura, resposta a incidentes e ambientes Microsoft em nuvem. Atuo em operações corporativas onde disponibilidade e segurança são prioridade, com suporte a usuários e serviços em cenários Microsoft 365 e híbridos.
 
----
-
-## 🚀 Projetos em Destaque
-
-- ⚡ Estudos e Labs de **Azure & AWS**  
-- 🤖 Aplicações com **IA Generativa** e automações inteligentes  
-- 🐳 Experimentos com **Docker e CI/CD**  
-- 📡 Projetos práticos em **monitoramento e observabilidade**
+No momento, estou evoluindo para Cloud e IA com abordagem prática. Estou me preparando para a certificação AWS Cloud Practitioner, realizando treinamentos na AWS Skill Builder e construindo labs em AWS e Azure. Também publico conteúdos sobre Cloud Intelligence, automação e infraestrutura moderna no Hashnode.
+</details>
 
 ---
 
-💬 **Sempre aberto para conexões, aprendizado e novas oportunidades.**  
-Se quiser trocar ideias sobre **Cloud, IA, carreira ou tecnologia**, será um prazer conversar! 🚀
+## Certifications
+
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- In progress: AWS Certified Cloud Practitioner (CLF), AI-102
+
+> If you have your personal credential verification link (Microsoft Learn/Credly), send it to me and I’ll update the badges to point to your verified profile instead of the public certification pages.
+
+---
+
+## Featured Writing
+
+- The Era of Cloud Intelligence: Where Data, Scale, and Decision Converge  
+  https://claudiosantos.hashnode.dev/the-era-of-cloud-intelligence-where-data-scale-and-decision-converge
+
+---
+
+## Tech Stack
+
+**Cloud:** AWS, Microsoft Azure  
+**Monitoring / NOC:** Zabbix, OpMon, SolarWinds (and similar tools)  
+**Microsoft:** Microsoft 365, Exchange Online, Entra ID, Microsoft Defender, Active Directory  
+**Automation:** PowerShell, Python (learning)  
+**Core:** Networking, troubleshooting, incident management
+
+---
+
+## Projects & Labs
+
+This section will grow with my hands-on labs and cloud projects.
+
+- AWS labs (Cloud Practitioner track) + AWS Skill Builder practice
+- Azure labs (identity, security, AI fundamentals)
+- Monitoring and automation scripts for operations
+
+---
+
+## Contact
+
+- Blog: https://claudiosantos.hashnode.dev
+- GitHub: https://github.com/cmosantos
+- LinkedIn: https://www.linkedin.com/in/SEU-LINKEDIN/
+- Email: SEUEMAIL@DOMINIO.COM
