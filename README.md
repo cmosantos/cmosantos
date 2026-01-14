@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/claudio--santos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:SEUEMAIL@DOMINIO.COM">
+  <a href="mailto:claudio.oliveira@montreal.com.br">
     <img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
