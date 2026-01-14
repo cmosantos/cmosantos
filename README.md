@@ -8,6 +8,9 @@
   <a href="https://learn.microsoft.com/pt-br/users/cludiosantos-5303/credentials/certification/azure-fundamentals?tab=credentials-tab" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-900">
   </a>
+  <a href="https://montreal.com.br/certificacoes-e-parcerias/" target="_blank">
+    <img src="https://img.shields.io/badge/Montreal%20Inform%C3%A1tica-Professional-111111?style=for-the-badge" alt="Montreal Informática">
+  </a>
   <a href="https://claudiosantos.hashnode.dev" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog">
   </a>
@@ -79,5 +82,5 @@ This section will grow with my hands-on labs and cloud projects.
 
 - Blog: https://claudiosantos.hashnode.dev
 - GitHub: https://github.com/cmosantos
-- LinkedIn: https://www.linkedin.com/in/SEU-LINKEDIN/
-- Email: SEUEMAIL@DOMINIO.COM
+- LinkedIn: https://www.linkedin.com/in/claudio--santos/
+- Email: claudio.oliveira@montreal.com.br
