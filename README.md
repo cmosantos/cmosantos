@@ -33,24 +33,20 @@
 
 ## About
 
-I’m an IT Support and NOC professional focused on infrastructure monitoring, incident response, and Microsoft cloud environments. I work with enterprise operations where availability and security are non-negotiable, supporting users and services across Microsoft 365 and hybrid scenarios.
+I work as a Junior IT Support Analyst with over one year of experience in corporate environments, focused on end-user support, incident troubleshooting, and operational continuity. I work daily with Microsoft 365, Exchange Online, Microsoft Defender, Active Directory, and Microsoft Entra ID, supporting hybrid scenarios where availability and security are top priorities. I handle requests and follow-ups through Microsoft Teams and email support, ensuring clear communication, proper documentation, and efficient issue resolution.
 
-I work daily with Microsoft 365, Exchange Online, Microsoft Defender, Active Directory, and Microsoft Entra ID. I also handle support interactions through Microsoft Teams and email, ensuring clear communication, proper documentation, and efficient issue resolution.
+I have worked with proactive infrastructure monitoring using Zabbix, OpMon, and Grafana, tracking key indicators, identifying anomalies, and contributing to service stability and availability. I have an analytical profile, clear communication, and a strong sense of prioritization, always focused on user productivity and operational excellence.
 
-I have worked with proactive infrastructure monitoring using Zabbix, OpMon, and Grafana, tracking key indicators, identifying anomalies, and contributing to service stability and availability.
-
-Right now, I’m expanding into Cloud and AI with a strong hands-on approach. I’m studying for AWS Cloud Practitioner, progressing through AWS Skill Builder training, and building practical labs in AWS and Azure. I also write about Cloud Intelligence, automation, and modern infrastructure on Hashnode.
+I hold the Azure Fundamentals (AZ-900) and Azure AI Fundamentals (AI-900) certifications and continue to grow with a hands-on approach in Cloud and AI. I am currently preparing for AI-102 and AWS certifications, building labs and projects to strengthen my foundation in Cloud Operations. My goal is to grow in cloud operations with a focus on availability, governance, and observability, applying best practices across both the Microsoft and AWS ecosystems. I also create technical content, with articles published on DIO, where I was invited to be part of the University Ambassadors Group, and on Hashnode, sharing learnings about cloud, automation, and modern infrastructure.
 
 <details>
   <summary><b>Versão em Português</b></summary>
 
-Profissional de Suporte e NOC com foco em monitoramento de infraestrutura, resposta a incidentes e ambientes Microsoft em nuvem. Atuo em operações corporativas onde disponibilidade e segurança são prioridade, com suporte a usuários e serviços em cenários Microsoft 365 e híbridos.
+Atuo como Analista de Suporte Júnior com mais de um ano de experiência em ambientes corporativos, com foco em suporte ao usuário, troubleshooting de incidentes e continuidade operacional. Trabalho diariamente com Microsoft 365, Exchange Online, Microsoft Defender, Active Directory e Microsoft Entra ID, apoiando cenários híbridos onde disponibilidade e segurança são prioridade. Realizo atendimentos e acompanhamentos de demandas por meio do Microsoft Teams e suporte via e-mail, garantindo comunicação clara, registro adequado e resolução eficiente dos chamados.
 
-Trabalho diariamente com Microsoft 365, Exchange Online, Microsoft Defender, Active Directory e Microsoft Entra ID. Também realizo atendimentos e acompanhamentos por meio do Microsoft Teams e suporte via e-mail, garantindo comunicação clara, registro adequado e resolução eficiente dos chamados.
+Já atuei com monitoramento proativo de infraestrutura utilizando Zabbix, OpMon e Grafana, acompanhando indicadores, identificando anomalias e contribuindo para a estabilidade e a disponibilidade dos serviços. Tenho perfil analítico, comunicação clara e forte senso de prioridade, sempre orientado à produtividade do usuário e à excelência operacional.
 
-Já atuei com monitoramento proativo de infraestrutura utilizando Zabbix, OpMon e Grafana, acompanhando indicadores, identificando anomalias e contribuindo para a estabilidade e a disponibilidade dos serviços.
-
-No momento, estou evoluindo para Cloud e IA com abordagem prática. Estou me preparando para a certificação AWS Cloud Practitioner, realizando treinamentos na AWS Skill Builder e construindo labs em AWS e Azure. Também publico conteúdos sobre Cloud Intelligence, automação e infraestrutura moderna no Hashnode.
+Concluí as certificações Azure Fundamentals (AZ-900) e Azure AI Fundamentals (AI-900) e sigo evoluindo com uma abordagem prática em Cloud e IA. No momento, estou me preparando para a AI-102 e para certificações AWS, construindo labs e projetos para fortalecer minha base em Cloud Operations. Meu objetivo é crescer em operações cloud com foco em disponibilidade, governança e observabilidade, integrando boas práticas tanto no ecossistema Microsoft quanto na AWS.
 </details>
 
 ---
