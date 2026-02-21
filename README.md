@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-github.png" alt="Cloud & AI GitHub Banner" width="100%" height="240" />
+  <img src="./banner-github.png" alt="Cloud & AI GitHub Banner" style="max-width: 100%; height: 240px; object-fit: cover;" />
 </p>
 
 <h1 align="center">Cláudio Santos</h1>
