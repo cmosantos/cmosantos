@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./banner-github.png" alt="Cloud & AI GitHub Banner" width="100%" height="180" />
+  <img src="./banner-github.png" alt="Cloud & AI GitHub Banner" style="max-width: 100%; height: 180px; object-fit: cover;" />
 </p>
 
 <h1 align="center">Claudio Santos</h1>
-<p align="center"><b>IT Support & NOC</b> • Cloud & AI • Belo Horizonte, Brazil</p>
+<p align="center"><b>Junior IT Support Analyst • Cloud & AI • Belo Horizonte, Brazil</b></p>
 
 <p align="center">
   <a href="https://learn.microsoft.com/pt-br/users/cludiosantos-5303/credentials/certification/azure-ai-fundamentals?tab=credentials-tab" target="_blank" rel="noopener noreferrer">
