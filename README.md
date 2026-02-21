@@ -2,7 +2,7 @@
   <img src="./banner-github.png" alt="Cloud & AI GitHub Banner" width="100%" height="240" />
 </p>
 
-<h1 align="center">Claudio Santos</h1>
+<h1 align="center">Cláudio Santos</h1>
 <p align="center"><b>Junior IT Support Analyst • Cloud & AI • Belo Horizonte, Brazil</b></p>
 
 <p align="center">
