@@ -92,4 +92,4 @@ This section will grow with my hands-on labs and cloud projects.
 - Blog: https://claudiosantos.hashnode.dev
 - GitHub: https://github.com/cmosantos
 - LinkedIn: https://www.linkedin.com/in/claudio--santos/
-- Email: claudio.oliveira@montreal.com.br
+- Email: cmosantos@gmail.com
