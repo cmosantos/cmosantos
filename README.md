@@ -24,9 +24,10 @@
   <a href="https://www.linkedin.com/in/claudio--santos/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:claudio.oliveira@montreal.com.br">
-    <img src="https://img.shields.io/badge/Email-claudio.oliveira%40montreal.com.br-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="mailto:cmosantos@gmail.com">
+  <img src="https://img.shields.io/badge/Email-cmosantos%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Email">
+</a>
 </p>
 
 ---
