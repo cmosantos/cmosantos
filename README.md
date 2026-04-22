@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Cláudio Santos</h1>
-<p align="center"><b>Analista de Suporte Júnior • Microsoft 365 • Cloud • Belo Horizonte, Brasil</b></p>
+<p align="center"><b>Analista de Suporte Júnior • Microsoft 365 • Cloud • IA • Belo Horizonte, Brasil</b></p>
 
 <p align="center">
   <a href="https://learn.microsoft.com/pt-br/users/cludiosantos-5303/credentials/certification/azure-ai-fundamentals?tab=credentials-tab" target="_blank" rel="noopener noreferrer">
