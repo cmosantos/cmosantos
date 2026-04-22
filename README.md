@@ -31,7 +31,7 @@ Atuo como Analista de Suporte Júnior com mais de um ano de experiência em ambi
 
 Também possuo experiência com monitoramento proativo de infraestrutura utilizando Zabbix, OpMon e Grafana, acompanhando indicadores, identificando anomalias e contribuindo para a estabilidade e a disponibilidade dos serviços. Tenho perfil analítico, comunicação clara e forte senso de prioridade, sempre orientado à produtividade do usuário e à excelência operacional.
 
-Sou certificado em Microsoft Azure Fundamentals (AZ-900) e Microsoft Azure AI Fundamentals (AI-900) e sigo evoluindo com uma abordagem prática em Cloud e tecnologia. Meu objetivo é expandir minha atuação em suporte, infraestrutura e cloud, contribuindo com soluções modernas voltadas para eficiência operacional.
+Sou certificado em Microsoft Azure Fundamentals (AZ-900) e Microsoft Azure AI Fundamentals (AI-900) e sigo evoluindo com uma abordagem prática em IA, Cloud e tecnologia. Meu objetivo é expandir minha atuação em suporte, infraestrutura, cloud e automação com IA, contribuindo com soluções modernas voltadas para eficiência operacional.
 
 ---
 
