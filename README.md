@@ -72,16 +72,6 @@ Sou Analista de Suporte Júnior e profissional de Workplace, com experiência no
 
 ---
 
-## Certificações
-
-<p align="center">
-  <a href="https://learn.microsoft.com/pt-br/users/cludiosantos-5303/credentials/certification/azure-fundamentals?tab=credentials-tab"><b>Microsoft Certified: Azure Fundamentals (AZ-900)</b></a>
-  <br><br>
-  <a href="https://learn.microsoft.com/pt-br/users/cludiosantos-5303/credentials/certification/azure-ai-fundamentals?tab=credentials-tab"><b>Microsoft Certified: Azure AI Fundamentals (AI-900)</b></a>
-</p>
-
----
-
 <details>
   <summary><b>Mostrar tradução em inglês</b></summary>
   <br>
