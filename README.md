@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-github.png" alt="GitHub Banner" style="max-width: 100%; height: 240px; object-fit: cover;" />
+  <img src="./banner-github.svg" alt="Banner com suporte técnico, inteligência artificial e cloud computing" width="100%" />
 </p>
 
 <h1 align="center">Cláudio Santos</h1>
@@ -83,7 +83,7 @@ Sou Analista de Suporte Júnior e profissional de Workplace, com experiência no
 ---
 
 <details>
-  <summary><b>Show English version</b></summary>
+  <summary><b>Mostrar tradução em inglês</b></summary>
   <br>
 
   ## About me
