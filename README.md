@@ -58,6 +58,7 @@ Sou Analista de Suporte Júnior e profissional de Workplace, com experiência no
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix">
+  <img src="https://img.shields.io/badge/OpMon-005A9C?style=for-the-badge" alt="OpMon">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/Python%20Básico-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python básico">
 </p>
