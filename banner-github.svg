@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="360" viewBox="0 0 1440 360" role="img" aria-label="Banner com suporte técnico, inteligência artificial e cloud computing">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#04111f"/>
+      <stop offset="0.5" stop-color="#0a2342"/>
+      <stop offset="1" stop-color="#071729"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#60a5fa" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1440" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1440" height="360" rx="28" fill="url(#grid)"/>
+  <ellipse cx="710" cy="178" rx="320" ry="170" fill="url(#glow)"/>
+
+  <g opacity="0.55" stroke="#38bdf8" stroke-width="2" fill="none">
+    <path d="M300 95H505L565 145"/>
+    <path d="M300 265H505L565 215"/>
+    <path d="M875 145L935 95H1140"/>
+    <path d="M875 215L935 265H1140"/>
+  </g>
+  <g fill="#67e8f9">
+    <circle cx="300" cy="95" r="4"/><circle cx="505" cy="95" r="4"/>
+    <circle cx="300" cy="265" r="4"/><circle cx="505" cy="265" r="4"/>
+    <circle cx="935" cy="95" r="4"/><circle cx="1140" cy="95" r="4"/>
+    <circle cx="935" cy="265" r="4"/><circle cx="1140" cy="265" r="4"/>
+  </g>
+
+  <!-- Support workstation -->
+  <g transform="translate(120 72)">
+    <rect x="0" y="78" width="280" height="148" rx="18" fill="#081827" stroke="#2563eb" stroke-width="3"/>
+    <rect x="22" y="98" width="236" height="88" rx="10" fill="#0d2742"/>
+    <path d="M46 122h105M46 145h72M46 168h126" stroke="#38bdf8" stroke-width="8" stroke-linecap="round" opacity="0.75"/>
+    <circle cx="223" cy="142" r="24" fill="#12395a" stroke="#67e8f9" stroke-width="3"/>
+    <path d="M211 145l9 9 17-23" fill="none" stroke="#67e8f9" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M94 78c0-48 34-78 74-78s74 30 74 78" fill="none" stroke="url(#cyan)" stroke-width="12" stroke-linecap="round"/>
+    <rect x="74" y="56" width="30" height="66" rx="15" fill="#1d4ed8"/>
+    <rect x="232" y="56" width="30" height="66" rx="15" fill="#1d4ed8"/>
+    <path d="M247 109c0 32-20 48-52 48" fill="none" stroke="#60a5fa" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="190" cy="157" r="7" fill="#67e8f9"/>
+  </g>
+
+  <!-- AI core -->
+  <g transform="translate(570 48)" filter="url(#softGlow)">
+    <rect x="70" y="70" width="160" height="160" rx="34" fill="#081827" stroke="url(#violet)" stroke-width="5"/>
+    <rect x="105" y="105" width="90" height="90" rx="20" fill="url(#violet)" opacity="0.9"/>
+    <path d="M150 118v64M123 150h54" stroke="#ffffff" stroke-width="10" stroke-linecap="round" opacity="0.92"/>
+    <g stroke="#67e8f9" stroke-width="5" stroke-linecap="round">
+      <path d="M95 70V35"/><path d="M130 70V20"/><path d="M170 70V20"/><path d="M205 70V35"/>
+      <path d="M95 230v35"/><path d="M130 230v50"/><path d="M170 230v50"/><path d="M205 230v35"/>
+      <path d="M70 95H35"/><path d="M70 130H20"/><path d="M70 170H20"/><path d="M70 205H35"/>
+      <path d="M230 95h35"/><path d="M230 130h50"/><path d="M230 170h50"/><path d="M230 205h35"/>
+    </g>
+    <g fill="#67e8f9">
+      <circle cx="95" cy="30" r="6"/><circle cx="130" cy="15" r="6"/><circle cx="170" cy="15" r="6"/><circle cx="205" cy="30" r="6"/>
+      <circle cx="95" cy="270" r="6"/><circle cx="130" cy="285" r="6"/><circle cx="170" cy="285" r="6"/><circle cx="205" cy="270" r="6"/>
+      <circle cx="30" cy="95" r="6"/><circle cx="15" cy="130" r="6"/><circle cx="15" cy="170" r="6"/><circle cx="30" cy="205" r="6"/>
+      <circle cx="270" cy="95" r="6"/><circle cx="285" cy="130" r="6"/><circle cx="285" cy="170" r="6"/><circle cx="270" cy="205" r="6"/>
+    </g>
+  </g>
+
+  <!-- Cloud and datacenter -->
+  <g transform="translate(1010 72)">
+    <path d="M90 120c-34 0-58-22-58-52 0-29 22-50 50-52 12-29 39-46 71-46 43 0 77 30 82 70 31 2 55 25 55 55 0 31-26 55-60 55H90c-33 0-58-22-58-52" fill="#0d2742" stroke="url(#cyan)" stroke-width="5"/>
+    <g transform="translate(40 165)">
+      <rect width="210" height="105" rx="16" fill="#081827" stroke="#2563eb" stroke-width="3"/>
+      <rect x="20" y="18" width="170" height="18" rx="8" fill="#12395a"/>
+      <rect x="20" y="44" width="170" height="18" rx="8" fill="#12395a"/>
+      <rect x="20" y="70" width="170" height="18" rx="8" fill="#12395a"/>
+      <g fill="#67e8f9"><circle cx="170" cy="27" r="5"/><circle cx="170" cy="53" r="5"/><circle cx="170" cy="79" r="5"/></g>
+    </g>
+  </g>
+
+  <g fill="#93c5fd" opacity="0.45">
+    <circle cx="72" cy="55" r="3"/><circle cx="420" cy="42" r="2"/><circle cx="520" cy="315" r="3"/>
+    <circle cx="918" cy="50" r="3"/><circle cx="1320" cy="55" r="2"/><circle cx="1365" cy="290" r="3"/>
+  </g>
+</svg>
