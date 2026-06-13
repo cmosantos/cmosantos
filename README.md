@@ -6,10 +6,10 @@
 <p align="center"><b>Analista de Suporte Júnior • Workplace • Microsoft 365 • Cloud • IA • Belo Horizonte, Brasil</b></p>
 
 <p align="center">
-  <a href="https://learn.microsoft.com/pt-br/users/cludiosantos-5303/credentials/certification/azure-ai-fundamentals?tab=credentials-tab">
+  <a href="./certificados/certificado-claudio-ai900.pdf">
     <img src="https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft AI-900">
   </a>
-  <a href="https://learn.microsoft.com/pt-br/users/cludiosantos-5303/credentials/certification/azure-fundamentals?tab=credentials-tab">
+  <a href="./certificados/certificacao-claudio-az900.pdf">
     <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-900">
   </a>
 </p>
