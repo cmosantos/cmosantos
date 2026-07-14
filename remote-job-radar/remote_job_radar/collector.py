@@ -145,7 +145,7 @@ def _normalize_datetime_to_iso(value: Any) -> str:
 
 def _build_fallback_job_id(title: str, company: str, source_url: str | None) -> str:
     base = f"{title}|{company}|{source_url or ''}"
-    return hashlib.sha1(base.encode("utf-8")).hexdigest()
+    return hashlib.sha256(base.encode("utf-8")).hexdigest()
 
 
 def _first_non_empty(raw_job: dict[str, Any], keys: list[str]) -> str | None:
