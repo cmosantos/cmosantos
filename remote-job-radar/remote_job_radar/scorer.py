@@ -44,6 +44,10 @@ PROFILE_SKILL_KEYWORDS = [
     "aws",
 ]
 
+MAX_DISPLAYED_TITLE_MATCHES = 3
+MAX_DISPLAYED_SKILL_MATCHES = 4
+MAX_REASONS = 4
+
 
 def calculate_compatibility_score(job: dict[str, Any]) -> tuple[int, list[str]]:
     title_text = str(job.get("title", "")).lower()
@@ -56,17 +60,21 @@ def calculate_compatibility_score(job: dict[str, Any]) -> tuple[int, list[str]]:
     if title_matches:
         title_points = min(40, len(title_matches) * 20)
         score += title_points
-        reasons.append(f"Título alinhado ({', '.join(title_matches[:3])})")
+        reasons.append(
+            f"Título alinhado ({', '.join(title_matches[:MAX_DISPLAYED_TITLE_MATCHES])})"
+        )
 
     skill_matches = [keyword for keyword in PROFILE_SKILL_KEYWORDS if keyword in description_text]
     if skill_matches:
         skill_points = min(40, len(skill_matches) * 5)
         score += skill_points
-        reasons.append(f"Skills citadas ({', '.join(skill_matches[:4])})")
+        reasons.append(
+            f"Skills citadas ({', '.join(skill_matches[:MAX_DISPLAYED_SKILL_MATCHES])})"
+        )
 
     if is_remote_location_allowed(job):
         score += 20
         reasons.append("Localização remota compatível")
 
     final_score = max(0, min(100, score))
-    return final_score, reasons[:4]
+    return final_score, reasons[:MAX_REASONS]
