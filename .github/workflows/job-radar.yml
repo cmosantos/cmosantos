@@ -1,0 +1,30 @@
+name: Remote Job Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 8,16,23 * * *"
+
+jobs:
+  run-radar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        working-directory: remote-job-radar
+        run: pip install -r requirements.txt
+
+      - name: Run remote-job-radar
+        working-directory: remote-job-radar
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py
