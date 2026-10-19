@@ -7,28 +7,28 @@
 
 <p align="center">
   <a href="./certificados/certificado-claudio-ai900.pdf">
-    <img src="https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=flat-square&logo=microsoft&logoColor=white" height="30" style="border-radius: 9px;" alt="Microsoft AI-900">
+    <img src="https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=plastic&logo=microsoft&logoColor=white" height="40" alt="Microsoft AI-900">
   </a>
   <a href="./certificados/certificacao-claudio-az900.pdf">
-    <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="30" style="border-radius: 9px;" alt="Microsoft AZ-900">
+    <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=plastic&logo=microsoftazure&logoColor=white" height="40" alt="Microsoft AZ-900">
   </a>
   <a href="https://education.oracle.com/">
-    <img src="https://img.shields.io/badge/Oracle-Certificações-F80000?style=flat-square&logo=oracle&logoColor=white" height="30" style="border-radius: 9px;" alt="Certificações Oracle">
+    <img src="https://img.shields.io/badge/Oracle-Certificações-F80000?style=plastic&logo=oracle&logoColor=white" height="40" alt="Certificações Oracle">
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/claudio--santos/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-2563EB?style=flat-square&logo=linkedin&logoColor=white" height="30" style="border-radius: 9px;" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-2563EB?style=plastic&logo=linkedin&logoColor=white" height="40" alt="LinkedIn">
   </a>
   <a href="https://claudiosantos.hashnode.dev">
-    <img src="https://img.shields.io/badge/Hashnode-Artigos-2563EB?style=flat-square&logo=hashnode&logoColor=white" height="30" style="border-radius: 9px;" alt="Hashnode">
+    <img src="https://img.shields.io/badge/Hashnode-Artigos-2563EB?style=plastic&logo=hashnode&logoColor=white" height="40" alt="Hashnode">
   </a>
   <a href="mailto:cmosantos@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-2563EB?style=flat-square&logo=gmail&logoColor=white" height="30" style="border-radius: 9px;" alt="E-mail">
+    <img src="https://img.shields.io/badge/Email-Contato-2563EB?style=plastic&logo=gmail&logoColor=white" height="40" alt="E-mail">
   </a>
   <a href="https://claudio-santos.lovable.app">
-    <img src="https://img.shields.io/badge/Lovable-Portf%C3%B3lio-2563EB?style=flat-square" height="30" style="border-radius: 9px;" alt="Portfólio no Lovable">
+    <img src="https://img.shields.io/badge/Lovable-Portf%C3%B3lio-2563EB?style=plastic" height="40" alt="Portfólio no Lovable">
   </a>
 </p>
 
@@ -43,35 +43,35 @@ Sou Analista de Suporte Júnior e profissional de Workplace, com experiência no
 ## Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=flat-square&logo=microsoft365&logoColor=white" height="30" style="border-radius: 9px;" alt="Microsoft 365">
-  <img src="https://img.shields.io/badge/Exchange%20Online-0078D4?style=flat-square&logo=microsoftexchange&logoColor=white" height="30" style="border-radius: 9px;" alt="Exchange Online">
-  <img src="https://img.shields.io/badge/Microsoft%20Teams-0078D4?style=flat-square&logo=microsoftteams&logoColor=white" height="30" style="border-radius: 9px;" alt="Microsoft Teams">
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white" height="30" style="border-radius: 9px;" alt="SharePoint">
-  <img src="https://img.shields.io/badge/OneDrive-0078D4?style=flat-square&logo=microsoftonedrive&logoColor=white" height="30" style="border-radius: 9px;" alt="OneDrive">
+  <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=plastic&logo=microsoft365&logoColor=white" height="40" alt="Microsoft 365">
+  <img src="https://img.shields.io/badge/Exchange%20Online-0078D4?style=plastic&logo=microsoftexchange&logoColor=white" height="40" alt="Exchange Online">
+  <img src="https://img.shields.io/badge/Microsoft%20Teams-0078D4?style=plastic&logo=microsoftteams&logoColor=white" height="40" alt="Microsoft Teams">
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=plastic&logo=microsoftsharepoint&logoColor=white" height="40" alt="SharePoint">
+  <img src="https://img.shields.io/badge/OneDrive-0078D4?style=plastic&logo=microsoftonedrive&logoColor=white" height="40" alt="OneDrive">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="30" style="border-radius: 9px;" alt="Microsoft Entra ID">
-  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=windows&logoColor=white" height="30" style="border-radius: 9px;" alt="Active Directory">
-  <img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=flat-square&logo=windowssecurity&logoColor=white" height="30" style="border-radius: 9px;" alt="Microsoft Defender">
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white" height="30" style="border-radius: 9px;" alt="Windows">
+  <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=plastic&logo=microsoftazure&logoColor=white" height="40" alt="Microsoft Entra ID">
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=plastic&logo=windows&logoColor=white" height="40" alt="Active Directory">
+  <img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=plastic&logo=windowssecurity&logoColor=white" height="40" alt="Microsoft Defender">
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=plastic&logo=windows11&logoColor=white" height="40" alt="Windows">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="30" style="border-radius: 9px;" alt="Microsoft Azure">
-  <img src="https://img.shields.io/badge/AWS-0078D4?style=flat-square&logo=amazonwebservices&logoColor=white" height="30" style="border-radius: 9px;" alt="AWS">
-  <img src="https://img.shields.io/badge/Zabbix-0078D4?style=flat-square&logo=zabbix&logoColor=white" height="30" style="border-radius: 9px;" alt="Zabbix">
-  <img src="https://img.shields.io/badge/OpMon-0E7490?style=flat-square" height="30" style="border-radius: 9px;" alt="OpMon">
-  <img src="https://img.shields.io/badge/Grafana-0E7490?style=flat-square&logo=grafana&logoColor=white" height="30" style="border-radius: 9px;" alt="Grafana">
-  <img src="https://img.shields.io/badge/Python%20Básico-0E7490?style=flat-square&logo=python&logoColor=white" height="30" style="border-radius: 9px;" alt="Python básico">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=plastic&logo=microsoftazure&logoColor=white" height="40" alt="Microsoft Azure">
+  <img src="https://img.shields.io/badge/AWS-0078D4?style=plastic&logo=amazonwebservices&logoColor=white" height="40" alt="AWS">
+  <img src="https://img.shields.io/badge/Zabbix-0078D4?style=plastic&logo=zabbix&logoColor=white" height="40" alt="Zabbix">
+  <img src="https://img.shields.io/badge/OpMon-0E7490?style=plastic" height="40" alt="OpMon">
+  <img src="https://img.shields.io/badge/Grafana-0E7490?style=plastic&logo=grafana&logoColor=white" height="40" alt="Grafana">
+  <img src="https://img.shields.io/badge/Python%20Básico-0E7490?style=plastic&logo=python&logoColor=white" height="40" alt="Python básico">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IT%20Support-0E7490?style=flat-square" height="30" style="border-radius: 9px;" alt="IT Support">
-  <img src="https://img.shields.io/badge/Troubleshooting-0E7490?style=flat-square" height="30" style="border-radius: 9px;" alt="Troubleshooting">
-  <img src="https://img.shields.io/badge/NOC-0E7490?style=flat-square" height="30" style="border-radius: 9px;" alt="NOC">
-  <img src="https://img.shields.io/badge/SLA-0E7490?style=flat-square" height="30" style="border-radius: 9px;" alt="SLA">
-  <img src="https://img.shields.io/badge/Automação%20com%20IA-0E7490?style=flat-square" height="30" style="border-radius: 9px;" alt="Automação com IA">
+  <img src="https://img.shields.io/badge/IT%20Support-0E7490?style=plastic" height="40" alt="IT Support">
+  <img src="https://img.shields.io/badge/Troubleshooting-0E7490?style=plastic" height="40" alt="Troubleshooting">
+  <img src="https://img.shields.io/badge/NOC-0E7490?style=plastic" height="40" alt="NOC">
+  <img src="https://img.shields.io/badge/SLA-0E7490?style=plastic" height="40" alt="SLA">
+  <img src="https://img.shields.io/badge/Automação%20com%20IA-0E7490?style=plastic" height="40" alt="Automação com IA">
 </p>
 
 ---
