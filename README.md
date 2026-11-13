@@ -67,6 +67,7 @@ Sou Analista de Suporte Júnior e profissional de Workplace, com experiência no
   <img src="https://img.shields.io/badge/OpMon-0E7490?style=plastic" alt="OpMon" height="24">
   <img src="https://img.shields.io/badge/Grafana-0E7490?style=plastic&logo=grafana&logoColor=white" alt="Grafana" height="24">
   <img src="https://img.shields.io/badge/Python%20Básico-0E7490?style=plastic&logo=python&logoColor=white" alt="Python básico" height="24">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub" height="24">
 </p>
 
 <p align="center">
