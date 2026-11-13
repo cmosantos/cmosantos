@@ -12,6 +12,9 @@
   <a href="./certificados/certificacao-claudio-az900.pdf">
     <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=plastic&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-900" height="24">
   </a>
+  <a href="https://github.com/cmosantos">
+    <img src="https://img.shields.io/badge/GitHub-GH--900-2EA44F?style=plastic&logo=github&logoColor=white" alt="GitHub Foundations GH-900" height="24">
+  </a>
   <a href="https://education.oracle.com/">
     <img src="https://img.shields.io/badge/Oracle-Certificações-F80000?style=plastic&logo=oracle&logoColor=white" alt="Certificações Oracle" height="24">
   </a>
